@@ -1,0 +1,4 @@
+#Mon Oct 12 15:29:23 ICT 2020
+base.0=D\:\\KULIAH\\SMT 5\\Aplikasi Mobile\\Project\\ProjectMyFlexibleFragment\\MyFlexibleFragment\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
